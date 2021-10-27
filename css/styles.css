@@ -165,7 +165,7 @@ footer p {
 
 
 
-@media screen (max-width:900px) {
+@media (max-width: 1028px) {
     .dog-image {
         width: 60%;
         transform: rotate(0deg);
