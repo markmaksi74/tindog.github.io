@@ -1,4 +1,3 @@
-
 body {
   font-family: "Montserrat";
   text-align: center;
@@ -167,6 +166,7 @@ p {
 }
 
 @media (max-width: 1028px) {
+
   #title {
     text-align: center;
   }
