@@ -1,7 +1,6 @@
 body {
   font-family: "Montserrat";
   text-align: center;
-  font-size: 10rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -176,4 +175,8 @@ p {
     position: static;
     transform: rotate(0);
   }
+
+  body {
+  font-size: 2rem;  
+}
 }
